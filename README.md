@@ -1,8 +1,8 @@
 In association with Simple Learn and IIT Tirupati i have completed my internship from the period 1/5/2022 to 30/6/2022 on Internet of Things ( IOT ) and i have completed the projects assigned to me 
 
-Major Project - Task1: Buildding a IOT based system using thingspeak, IFTTT using react triggers and webhooks and connecting it to mobile phone through sms.
+Major Project - Task1: Building a IOT based system using thingspeak, IFTTT using react triggers and webhooks and connecting it to mobile phone through sms.
 
-Task2: Using Tinkeercad buildinhg a system to full fill the given requirements.
+Task2: Using Tinkeercad building a system to full fill the given requirements.
 
 NO Hardware was used in any above tasks the data required was collected from various sources in the internet.
 
