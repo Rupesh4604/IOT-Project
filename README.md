@@ -6,6 +6,11 @@ I have completed my internship in association with Simple Learn and IIT Tirupati
 
 The objective of this project was to build an IoT-based system using ThingSpeak and IFTTT. The system utilized react triggers, webhooks, and SMS integration to connect with a mobile phone. The project involved creating a ThingSpeak HTTP request for either cricket scores or share prices of any shares.
 
+![Bitcoin_to_USD_http_request_using_thingspeak](./images/chart.JPG)
+
+![Bitcoin_to_USD_http_request_using_thingspeak](./images/http_file.JPG)
+
+
 ## Task2: IoT System Using ThingSpeak, IFTTT, and Tinkercad
 
 In this task, I built an IoT-based system using ThingSpeak, IFTTT, and Tinkercad. The system involved creating a channel to read two different sensor values, setting up a react trigger, and connecting it to IFTTT using a webhook. The objective was to send a notification message to a mobile phone through SMS. Screenshots of the entire process were taken and attached to a Word file as part of the project submission.
@@ -16,11 +21,12 @@ In this task, I built an IoT-based system using ThingSpeak, IFTTT, and Tinkercad
 
 For the Tinkercad project, I built a system using 3 servos and 3 sensors. When each sensor was activated, the corresponding servo would operate at a 45-degree angle. It's worth mentioning that no hardware was used in any of the above tasks, and the required data was collected from various sources on the internet.
 
-![Bitcoin_to_USD_http_request_using_thingspeak](./images/chart.JPG)
 
-![Bitcoin_to_USD_http_request_using_thingspeak](./images/http_file.JPG)
+<p float="left">
+  <img src="./images/3sensor.PNG" width="400" />
+  <img src="./images/3servo_3Sensor.JPGg" width="400" />
+</p>
 
-![Image 1](./images/3sensor.PNG) ![Image 2](./images/3servo_3Sensor.JPG)
 
 
 ## Learning and Experience
