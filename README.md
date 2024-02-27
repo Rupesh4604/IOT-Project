@@ -24,7 +24,7 @@ For the Tinkercad project, I built a system using 3 servos and 3 sensors. When e
 
 <p float="left">
   <img src="./images/3sensor.PNG" width="400" />
-  <img src="./images/3servo_3Sensor.JPGg" width="400" />
+  <img src="./images/3servo_3Sensor.JPG" width="400" />
 </p>
 
 
