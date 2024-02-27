@@ -10,9 +10,26 @@ The objective of this project was to build an IoT-based system using ThingSpeak 
 
 In this task, I built an IoT-based system using ThingSpeak, IFTTT, and Tinkercad. The system involved creating a channel to read two different sensor values, setting up a react trigger, and connecting it to IFTTT using a webhook. The objective was to send a notification message to a mobile phone through SMS. Screenshots of the entire process were taken and attached to a Word file as part of the project submission.
 
+![IFTT_webhooks](./images/ifttt_webhook.JPG)
+
+![SMS](./images/SMS.JPG)
+
 ## Tinkercad Project
 
 For the Tinkercad project, I built a system using 3 servos and 3 sensors. When each sensor was activated, the corresponding servo would operate at a 45-degree angle. It's worth mentioning that no hardware was used in any of the above tasks, and the required data was collected from various sources on the internet.
+
+![Bitcoin_to_USD_http_request_using_thingspeak](./images/chart.JPG)
+
+![Bitcoin_to_USD_http_request_using_thingspeak](./images/http_file.JPG)
+
+![Image 1](3sensor.PNG) ![Image 2](3servo_3sensor.JPG)
+
+<p float="left">
+  <img src="3sensor.PNG" width="400" />
+  <img src="3servo_3sensor.JPG" width="400" />
+</p>
+
+
 
 ## Learning and Experience
 
@@ -22,5 +39,5 @@ Feel free to explore the projects, code, and documentation included in this repo
 
 **Note**: The internship was conducted in collaboration with Simple Learn and IIT Tirupati, and the projects described here were successfully completed during the internship period.
 
-![Alt Text](./images/chart.JPG)
+
 
