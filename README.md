@@ -12,7 +12,7 @@ In this task, I built an IoT-based system using ThingSpeak, IFTTT, and Tinkercad
 
 ![IFTT_webhooks](./images/ifttt_webhook.JPG)
 
-![SMS](./images/SMS.JPG)
+![SMS](./images/SMS.jpeg)
 
 ## Tinkercad Project
 
@@ -22,11 +22,11 @@ For the Tinkercad project, I built a system using 3 servos and 3 sensors. When e
 
 ![Bitcoin_to_USD_http_request_using_thingspeak](./images/http_file.JPG)
 
-![Image 1](3sensor.PNG) ![Image 2](3servo_3sensor.JPG)
+![Image 1](3sensor.PNG) ![Image 2](3servo_3Sensor.JPG)
 
 <p float="left">
   <img src="3sensor.PNG" width="400" />
-  <img src="3servo_3sensor.JPG" width="400" />
+  <img src="3servo_3Sensor.JPG" width="400" />
 </p>
 
 
