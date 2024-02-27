@@ -21,3 +21,6 @@ During this internship, I acquired knowledge about the layers of IoT, ATMega328p
 Feel free to explore the projects, code, and documentation included in this repository to gain a deeper understanding of the concepts and implementations in the IoT domain.
 
 **Note**: The internship was conducted in collaboration with Simple Learn and IIT Tirupati, and the projects described here were successfully completed during the internship period.
+
+![Alt Text](./images/chart.JPG)
+
