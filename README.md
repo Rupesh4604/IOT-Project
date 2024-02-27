@@ -12,8 +12,6 @@ In this task, I built an IoT-based system using ThingSpeak, IFTTT, and Tinkercad
 
 ![IFTT_webhooks](./images/ifttt_webhook.JPG)
 
-![SMS](./images/SMS.jpeg)
-
 ## Tinkercad Project
 
 For the Tinkercad project, I built a system using 3 servos and 3 sensors. When each sensor was activated, the corresponding servo would operate at a 45-degree angle. It's worth mentioning that no hardware was used in any of the above tasks, and the required data was collected from various sources on the internet.
@@ -22,13 +20,7 @@ For the Tinkercad project, I built a system using 3 servos and 3 sensors. When e
 
 ![Bitcoin_to_USD_http_request_using_thingspeak](./images/http_file.JPG)
 
-![Image 1](3sensor.PNG) ![Image 2](3servo_3Sensor.JPG)
-
-<p float="left">
-  <img src="3sensor.PNG" width="400" />
-  <img src="3servo_3Sensor.JPG" width="400" />
-</p>
-
+![Image 1](./images/3sensor.PNG) ![Image 2](./images/3servo_3Sensor.JPG)
 
 
 ## Learning and Experience
@@ -39,5 +31,5 @@ Feel free to explore the projects, code, and documentation included in this repo
 
 **Note**: The internship was conducted in collaboration with Simple Learn and IIT Tirupati, and the projects described here were successfully completed during the internship period.
 
-
+![SMS](./images/SMS.jpeg)
 
